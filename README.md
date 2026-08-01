@@ -1,6 +1,11 @@
 # Nic Ruth
 
-Electrical / embedded engineering.
+Electrical / embedded engineering. B.S. EE at the University of Denver, 2027.
+
+### 🌐 [nruth633.github.io](https://nruth633.github.io)
+
+Portfolio — project write-ups with measurements, schematics, and build photos.
+Rail launcher, silicon bandgap measurement, high-altitude balloon payload, and more.
 
 **Embedded** — STM32 (F401 / F407 / F103) firmware in C with STM32CubeIDE and HAL. Timers,
 interrupts, DAC, I²C/SPI peripherals, IMU sensor fusion, ESP8266 wireless control.
@@ -20,3 +25,5 @@ Rigol RSA5065N in VNA mode.
   ESP8266 remote). Plus several KiCad boards and embedded systems lab work.
 - **work** — RF design and measurement *(private)*
 - **[personal](https://github.com/nruth633/personal)** — personal projects
+- **[nruth633.github.io](https://github.com/nruth633/nruth633.github.io)** — the portfolio
+  site itself. Plain HTML/CSS/JS, no build step.
